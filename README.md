@@ -1,0 +1,1 @@
+This repository demonstrates how to build a real-time notification system using Spring Boot and WebSocket. It is designed for instant updates in applications such as chat systems, order tracking, and admin-triggered notifications.
